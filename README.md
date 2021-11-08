@@ -1,5 +1,5 @@
 # Collection and storage of data
-**Analytics in the airline: parsing data, working with databases using Python and SQL**
+**Analytics in the airline: data parsing, working with databases using Python and SQL**
 
 **Цель проекта**: понять предпочтения пользователей, покупающих билеты на разные направления.
 
